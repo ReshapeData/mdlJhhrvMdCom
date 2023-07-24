@@ -11,7 +11,7 @@ module_id ='mdlJhhrvMdCom'
 module_name ='模块演示'
 
 #获取数据中台数据库连接的token,演示数据为py_test
-dms_token ='75CE5B94-38F1-40F6-9B7B-9B4170C8E5F6'
+dms_token ='057A7F0E-F187-4975-8873-AF71666429AB'
 
 #加载数据中台的所有系统包及程序包
 tstk::import(app_id)
